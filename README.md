@@ -9,11 +9,11 @@
 
 ## I have some projects from School 21, you can see them on the links below
 
-[<img src="https://img.shields.io/badge/42%2FC-lib__ft-green?logo=42&logoColor=000000&style=for-the-badge?labelColor=000000" />](https://github.com/hbombur/my_libft)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-get__next__line-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/get_next_line)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-ft__printf-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/ft_printf)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-pipex-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/pipex)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-FDF-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/FDF)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-lib__ft-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/my_libft)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-get__next__line-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/get_next_line)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-ft__printf-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/ft_printf)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-pipex-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/pipex)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-FDF-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/FDF)&nbsp;
 
 ## Well, I also have projects written by me in my free time:
 ### Python telegram-bot project:
