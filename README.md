@@ -9,7 +9,11 @@
 
 ## I have some projects from School 21, you can see them on the links below
 
-
+[<img src="https://img.shields.io/badge/42%2Fc-lib__ft-green" />](https://github.com/hbombur/my_libft)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-get__next__line-green" />](https://github.com/hbombur/get_next_line)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-ft__printf-green" />](https://github.com/hbombur/ft_printf)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-pipex-green" />](https://github.com/hbombur/pipex)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-FDF-green" />](https://github.com/hbombur/FDF)&nbsp;
 
 ## Well, I also have projects written by me in my free time:
 ### Python telegram-bot project:
