@@ -18,7 +18,7 @@
 ## Well, I also have projects written by me in my free time:
 ### Python telegram-bot project:
 
-[<img src="https://img.shields.io/badge/%20-Peter__bot-darkblue?style=plastic&logo=python&labelColor=464451" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/hbombur/pyotr-bot)&nbsp;
+[<img src="https://img.shields.io/badge/%20-Peter__bot-blue?style=plastic&logo=python&labelColor=464451" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/hbombur/pyotr-bot)&nbsp;
 [<img src="https://img.shields.io/badge/%20-Church__Schedule-lightblue?style=plastic&logo=python&labelColor=464451" alt="Flutter logo" title="Flutter" height="25" />](https://github.com/hbombur/church_shedule)&nbsp;
 
 ### Python project for child:
