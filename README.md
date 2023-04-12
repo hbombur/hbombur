@@ -9,7 +9,7 @@
 
 ## I have some projects from School 21, you can see them on the links below
 
-[<img src="https://img.shields.io/badge/+-lib__ft-green?logo=42&logoColor=000000&style=for-the-badge&labelColor=000000" />](https://github.com/hbombur/my_libft)&nbsp;
+[<img src="https://img.shields.io/badge/+-lib__ft-green?logo=42&logoColor=000000&style=for-the-badge&Color=000000" />](https://github.com/hbombur/my_libft)&nbsp;
 [<img src="https://img.shields.io/badge/+-get__next__line-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/get_next_line)&nbsp;
 [<img src="https://img.shields.io/badge/+-ft__printf-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/ft_printf)&nbsp;
 [<img src="https://img.shields.io/badge/+-pipex-green?logo=42&logoColor=000000&style=for-the-badge?Color=000000" />](https://github.com/hbombur/pipex)&nbsp;
