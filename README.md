@@ -1,5 +1,6 @@
 # Hi!
-# My name is Andrey and I'm learning programming in School 21 (Ecole 42 in Russia)
+# My name is Andrey
+# I'm learning programming in School 21 (Ecole 42 in Russia)
 
 <p align="center">
   <img width="860" src="./giphy.gif">
