@@ -9,7 +9,7 @@
 
 ## I have some projects from School 21, you can see them on the links below
 
-[<img src="https://img.shields.io/badge/42%2FC-lib__ft-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/my_libft)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-lib__ft-green?style=for-the-badge&logo=appveyor?labelColor=abcdef" />](https://github.com/hbombur/my_libft)&nbsp;
 [<img src="https://img.shields.io/badge/42%2FC-get__next__line-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/get_next_line)&nbsp;
 [<img src="https://img.shields.io/badge/42%2FC-ft__printf-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/ft_printf)&nbsp;
 [<img src="https://img.shields.io/badge/42%2FC-pipex-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/pipex)&nbsp;
