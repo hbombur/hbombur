@@ -9,18 +9,18 @@
 
 ## I have some projects from School 21, you can see them on the links below
 
-[<img src="https://img.shields.io/badge/42%2FC-lib__ft-green" />](https://github.com/hbombur/my_libft)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-get__next__line-green" />](https://github.com/hbombur/get_next_line)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-ft__printf-green" />](https://github.com/hbombur/ft_printf)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-pipex-green" />](https://github.com/hbombur/pipex)&nbsp;
-[<img src="https://img.shields.io/badge/42%2FC-FDF-green" />](https://github.com/hbombur/FDF)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-lib__ft-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/my_libft)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-get__next__line-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/get_next_line)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-ft__printf-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/ft_printf)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-pipex-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/pipex)&nbsp;
+[<img src="https://img.shields.io/badge/42%2FC-FDF-green?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/FDF)&nbsp;
 
 ## Well, I also have projects written by me in my free time:
 ### Python telegram-bot project:
 
-[<img src="https://img.shields.io/badge/Py-Peter__bot-darkblue" />](https://github.com/hbombur/pyotr-bot)&nbsp;
-[<img src="https://img.shields.io/badge/Py-Church__Schedule-lightblue" />](https://github.com/hbombur/church_shedule)&nbsp;
+[<img src="https://img.shields.io/badge/Py-Peter__bot-darkblue?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/pyotr-bot)&nbsp;
+[<img src="https://img.shields.io/badge/Py-Church__Schedule-lightblue?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/church_shedule)&nbsp;
 
 ### Python project for child:
 
-[<img src="https://img.shields.io/badge/Py-Timer%202.0-darkgreen" />](https://github.com/hbombur/timer2_0)&nbsp;
+[<img src="https://img.shields.io/badge/Py-Timer%202.0-darkgreen?style=for-the-badge&logo=appveyor" />](https://github.com/hbombur/timer2_0)&nbsp;
